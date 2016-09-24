@@ -1437,7 +1437,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .about-main p:nth-child(3) {
   width: 90% !important;
   overflow: hidden;
-  height: 90px;
+  height: auto;
 }
 .about {
   padding: 2.5em 0px;
@@ -1454,7 +1454,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .what-one p {
   margin: 1.9% auto 0;
   overflow: hidden;
-  height: 45px;
+  height: auto;
 }
 .work-one:nth-child(3){
 	display:none;
@@ -1659,7 +1659,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   position: absolute;
   top: -17px;
   left: 27%;
-  font-size: 25px;
+  font-size: 21px;
   width: 45%;
   -moz-transform: skewX(0deg);
   -ms-transform: skewX(0deg);
