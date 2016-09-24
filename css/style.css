@@ -1659,7 +1659,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   position: absolute;
   top: -17px;
   left: 27%;
-  font-size: 21px;
+  font-size: 20px;
   width: 45%;
   -moz-transform: skewX(0deg);
   -ms-transform: skewX(0deg);
