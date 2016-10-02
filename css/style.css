@@ -270,6 +270,7 @@ h1
 	width:63%;
 	margin:3% auto 0;
 	line-height:1.6em;
+
 }
 .services-mian p:nth-child(3){
 
@@ -1525,14 +1526,14 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 }
 .about-main p {
   font-size: 14px;
-  height: 45px;
+  height: auto;
   overflow: hidden;
   margin: 0% auto 0;
 }
 .about-main p:nth-child(3) {
   width: 94% !important;
   overflow: hidden;
-  height: 65px;
+  height: auto;
   margin-top: 5px;
 }
 .about {
@@ -1541,7 +1542,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .services-mian p {
   margin: 1% auto 0;
   overflow: hidden;
-  height: 47px;
+  height: auto;
   width: 97%;
 }
 .services-mian {
@@ -1551,7 +1552,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   min-height: 215px;
 }
 .what-one:nth-child(3){
-	display:none;
+	display:none; height: auto;
 }
 .what {
   padding: 2em 0px;
@@ -1562,16 +1563,17 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .what-one span {
   margin: 0 auto 3px;
   width: 40px;
-  height: 50px;
+  height: auto;
 }
 .what-one h4 {
   font-size: 15px;
 }
 .what-one p {
-  margin: 3.9% auto 0;
+  margin: 3.9% auto 0; height: auto;
 }
 .what-one p:nth-child(4) {
   display: none;
+  height: auto;
 }
 .what-one {
   margin-top: 10px;
