@@ -590,6 +590,7 @@ h1 {
     position: relative;
     display: block;
     float: left;
+    margin-top: 10px;
 }
 
 .rslides img {
@@ -2044,10 +2045,11 @@ a.hvr-sweep-to-right:active:before {
     -moz-transform: skewX(0deg);
     -ms-transform: skewX(0deg);
     -webkit-transform: skewX(0deg);
-    transform: skewX(0deg);
     -moz-animation: shift 4s ease-in-out infinite alternate;
     -webkit-animation: shift 4s ease-in-out infinite alternate;
     animation: shift 4s ease-in-out infinite alternate;
+    transform: skew(0deg);
+    padding-top: 5px;
 }
 
 /*.banner, .banner-1 {
