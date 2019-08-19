@@ -156,14 +156,16 @@ nav {
 /*--banner-Part-Starts-Here--*/
 .banner {
     background: url(../images/banner13.jpg) no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     min-height: 940px;
     margin-top: 5px;
+    object-fit: cover;
+    background-position: center center;
 }
 
 .banner-1 {
     background: url(../images/banner13.jpg) no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     min-height: 500px;
 }
 
